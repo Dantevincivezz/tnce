@@ -5,5 +5,5 @@
 ## It worked even tho it was ugly and put together using duck tape.
 Made using generic chat AI API from openai.
 
-## Deployed on Vercel left to die, untill I required more computing power in different projects.
+## Deployed to MS Azure and left to die, untill I required more computing power in different projects.
 
